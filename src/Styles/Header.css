@@ -1,0 +1,23 @@
+.navbar {
+  background-image: linear-gradient(
+    to left bottom,
+    #2d2f32,
+    #2e373e,
+    #2b3f48,
+    #264850,
+    #1f5156
+  );
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.2rem;
+  position: sticky;
+  top: 0;
+  z-index: 20;
+}
+
+.logo {
+  width: 25vh;
+  height: auto;
+}
