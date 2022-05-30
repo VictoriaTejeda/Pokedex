@@ -14,5 +14,5 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 
-**Nota: Cuando clones el repositorio debes de correr el comando npm install para que optengas las dependencias**
+**Nota: Cuando clones el repositorio debes de correr el comando npm install para que obtengas las dependencias**
 
